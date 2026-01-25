@@ -21,11 +21,6 @@
     "memory",
     "swap",
     "disk",
-    {
-      "type": "disk",
-      "key": "Portage RAM (/var/tmp/portage)",
-      "folders": "/var/tmp/portage"
-    },
     "poweradapter",
     "locale",
     "break",
